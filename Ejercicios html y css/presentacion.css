@@ -1,0 +1,48 @@
+ .contenedor-perfil {
+            background-color: #00FFFF; 
+            color: black; 
+            width: 80%; 
+            max-width: 600px; 
+            margin: 50px auto; 
+            padding: 30px; 
+            border: 2px solid black; 
+            box-sizing: border-box; 
+            text-align: center; }
+    
+h1 {
+            font-size: 2.5em; 
+            margin-bottom: 10px; 
+            color: black;
+        }
+
+        p {
+            font-size: 1.2em; 
+            margin-bottom: 5px; 
+        }
+
+        .dev-junior {
+            font-size: 1.5em; 
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .contacto-info {
+            color: red; 
+            font-size: 1.1em;
+            line-height: 1.6; 
+        }
+
+        .contacto-info a {
+            color: blue; 
+            text-decoration: none; 
+        }
+
+        .contacto-info a:hover {
+            text-decoration: underline; 
+        }
+         body {
+            font-family: Arial, sans-serif;
+            margin: 0; 
+            padding: 20px; 
+            background-color: #f0f0f0; 
+        }
